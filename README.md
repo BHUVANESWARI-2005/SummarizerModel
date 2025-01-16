@@ -1,8 +1,5 @@
-# SummarizerModel
-**Extractive Summarizer**
+# Extractive Summarizer Model
 
-
-**Aim:**
 To identify and extract the most important sentences from a text based on statistical relevance (TF-IDF scores), creating a concise summary while preserving the original sentence structure.
 
 **Implementation Steps:**
@@ -32,8 +29,8 @@ Combine the selected sentences into a summary.
 
 **Required Libraries:**
 
-**nltk** for text tokenization and stopword removal.
+**nltk** - for text tokenization and stopword removal.
 
-**scikit-learn** for TF-IDF computation.
+**scikit-learn** - for TF-IDF computation.
 
-**numpy** for numerical operations like sorting.
+**numpy** - for numerical operations like sorting.
